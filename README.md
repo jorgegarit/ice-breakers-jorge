@@ -1,18 +1,72 @@
-Made with Xunvyre's README generator ♡
-# JOURNIFY
-## Description
-https://your-journify.herokuapp.com/login
-JOURNIFY is a privacy-first photo journaling site that combines the ease of digital photos with a bright and cheerful vintage feel. Sometimes media isn't social, and we want to give everyone the option to share their life on their own terms. Whether it be a want to ensure that ONLY family can see your photos, or simply that you don't want your boss snooping on your weekend ragers, JOURNIFY your life with your own private digital journal!
-## Table of Contents
+# Ice-Blazers Journify, Photo Sharing App
+## Group Project 3 - UCF Coding Boot Camp
 
-* [Future Development](https://github.com/xunvyre/journify#future-development)
-* [Contribution](https://github.com/xunvyre/journify#contribution)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Contribution
-Xunvyre as part of the Ice Breaker Dev Team 2022
-## Future Development
-Having a functional photo upload is the main priority for any future delvelopment. Eventually, user control and sharing functionalities will be added.
-## Contact
-Please reach out to me with any questions or suggestions!
-* Github: [xunvyre](https://github.com/xunvyre/)
-* Email: xunvyre@gmail.com
+## Table of Contents:
+* [General Information](#general)
+* [Deployed Website](#website)
+* [Technologies](#technologies)
+* [Credits](#credits)
+* [Screenshots](#screenshots)
+* [License](#license)
+* [Footer](#footer)
+
+### General Information:
+This application is a photo journaling application. A user will have the ability to upload groups of photos to designated files in order to journal important moments in their lives.The user will also be able to tag locations to their photo albums. The user will be given a specific id that they can share with family and friends for them to view. The user and their friends/families can also interact with each other's journals posting comments, likes, etc. 
+
+
+### Deployed Website:
+Please visit the following Heroku link to open the application: 
+
+### Technologies:
+JavaScript, Express NodeJS, NPM packages: express, React-router, mysql2, multer and cors,mongo db, graphQL, swiper, HTML and CSS.
+
+### Credits:
+* Multer middleware: https://expressjs.com/en/resources/middleware/multer.html
+* Cors middleware: https://expressjs.com/en/resources/middleware/cors.html
+
+### Screenshots 
+
+#### Login Page
+![Login](./public/assets/images/login_page.jpg)
+
+#### Home Page
+![Home](./public/assets/images/home_page.jpg)
+
+#### My Journal Page
+![Journal](./public/assets/images/myjournal_page.jpg)
+
+#### Create Journal Page
+![Create](./public/assets/images/createjournal_page.jpg)
+
+
+### License
+This project is licensed under:
+License for this project is MIT
+
+#### Footer:
+This project was developed by:
+
+Victoria David
+rebeldraconis@gmail.com
+GitHub Repository: https://github.com/xunvyre
+
+Jorge Garit (Lead)
+jorgegarit@gmail.com
+GitHub Repository: https://github.com/jorgegarit
+
+Michael Jordan
+Mojosox@gmail.com
+GitHub Repository: https://github.com/mike-jordan79
+
+Lindsay L Libhart
+Libhartinc@gmail.com
+GitHub Repository: https://github.com/LibhartLL
+
+Jacqueline Turnmeyer
+jackysantiago358@yahoo.com
+GitHub Repository: https://github.com/Hickups789
+
+This projects GitHub Repository is:
+https://github.com/xunvyre/ice-breakers.git
